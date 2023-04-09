@@ -7,7 +7,7 @@ Hex est un jeu de plateau conçu pour deux joueurs, où l'objectif est de relier
 ```bash
 $ ./main.py player1_type player2_type board_size
 ```
-*Exmple
+Exemple
 
 ```bash
 $ ./main.py h mc 11
